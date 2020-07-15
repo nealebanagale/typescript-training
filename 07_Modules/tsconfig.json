@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "System"    //intend to use external modules by indicating what the compiled output should be
+    }
+}

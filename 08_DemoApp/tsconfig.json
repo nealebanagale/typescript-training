@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "declaration": true,        //for declaration file - describes a library that's not written in TypeScript or compiled to JS for distribution,
+        "module": "System",         //for external modules (System.js)
+        "sourceMap": true,          //for debugging
+        "experimentalDecorators": true //decorators
+    }
+}
